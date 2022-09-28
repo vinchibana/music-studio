@@ -1,3 +1,3 @@
 # music-studio
 
-AI sheet music transcription tool
+AI sheet music transcription tools set
